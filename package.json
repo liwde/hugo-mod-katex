@@ -1,0 +1,7 @@
+{
+    "name": "hugo-mod-katex",
+    "version": "0.0.1",
+    "dependencies": {
+        "katex": "0.16.45"
+    }
+}
